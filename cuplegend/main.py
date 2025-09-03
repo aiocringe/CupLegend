@@ -1,4 +1,4 @@
-from .classes import *
+from .types import *
 
 from json import dumps
 from requests import request
