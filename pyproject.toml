@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "cuplegend"
-version = "0.1.1"
+version = "1.0.0"
 authors = [
     { name = "aiocringe", email = "aiocringe@hotmail.com" },
 ]
@@ -23,4 +23,6 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/aiocringe/CupLegend"
+GitHub = "https://github.com/aiocringe/CupLegend"
+API = "https://api.cuplegend.ru/docs"
+Telegram = "https://t.me/CupLegend"
